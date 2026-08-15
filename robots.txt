@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7rv57s.juragan89a.site/sitemap.xml
